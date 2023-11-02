@@ -440,7 +440,7 @@ body{
 		font-size: 20px;
 		padding: 10px;
 		margin: 0px;
-		margin-left: 5.2%;
+		margin-left: 8%;
 		text-align: center;
 	}
 
@@ -486,14 +486,14 @@ body{
 	}
 
 	.meat2 p{
-		margin-left: 2%;
+		margin-left: 6%;
 		padding: 2vw;
 		border: 6px outset #f5902c;
 		font-size: 20px;
 	}
 
 	.grid-container {
-		width: 95%;
+		width: 98%;
 	    display: grid;
 	    grid-template-columns: repeat(1, 1fr);
 	    gap: 1vw;
@@ -536,7 +536,7 @@ body{
 	}
 
 	.extrameat img{
-		margin-left: 9%;
+		margin-left: 10%;
 		width: 80%;
 	}
 
